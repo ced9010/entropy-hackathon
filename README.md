@@ -37,3 +37,6 @@ Prefer coding? See `example_attack.py`.
 Found a leak? Submit the `turn_id` (printed under every reply) and how you did it: **[Submission form](https://docs.google.com/forms/d/e/1FAIpQLSfq1xrhvZgDDo03YHm7XJ7m_LdsdiJWapttVGzgOMBS-vSu5A/viewform?usp=header)**
 
 *Windows: use `python` instead of `python3`.*
+
+
+https://claude.ai/artifact/GUus6kY8Xiabf2pbEQ4Y1X#slide-f1efcbd7097b
